@@ -36,4 +36,8 @@ public class Control {
         tv.setControl(this);
     }
 
+    public TV  getTv(){
+        return tv;
+    }
+
 }
